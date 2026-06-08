@@ -1,0 +1,5 @@
+boost_1_69_0/
+boost_output/
+*.tar.gz
+*.tar.gz.1
+build_process.log
